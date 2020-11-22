@@ -10,6 +10,7 @@
         <module name="CyrilPrepMajor" />
         <module name="PrepMajorProject" />
         <module name="PrepMajorCoterie20" />
+        <module name="CyrilEdrete" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="10" />
